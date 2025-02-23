@@ -1,0 +1,3 @@
+cat ~/.bash_history | grep x2go
+env QT_QPA_PLATFORM=xcb x2goclient
+x2go <usuario>
